@@ -1,3 +1,7 @@
+## Overview
+
+This repo contains implementation of simple DAG to process data about temperature, cloudiness, humidity and wind speed in different sities (execute daily, catchup with start day 3 days ago), and write these observations to the PostgreSQL database.
+
 ## How to run
 
 Execute following line in the terminal:
@@ -17,4 +21,4 @@ Connections:
 
 ## Screenshots and results
 
-All screenshots of the results can be found in the folder
+All screenshots of the results can be found in the folder [screenshots](https://github.com/be-unkind/airflow-homework-1/tree/main/screenshots)
