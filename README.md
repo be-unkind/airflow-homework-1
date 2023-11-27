@@ -4,7 +4,7 @@ This repo contains implementation of simple DAG to process data about temperatur
 
 ## How to run
 
-Execute following line in the terminal:
+Execute following line in the terminal (in homework-1 folder):
 
 `docker-compose up`
 
